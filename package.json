@@ -1,0 +1,23 @@
+{
+  "name": "teknohole",
+  "version": "1.0.0",
+  "description": "Package resmi teknohole.com",
+  "keywords": [
+    "teknohole"
+  ],
+  "homepage": "https://github.com/teknohole/teknoholeNPM#readme",
+  "bugs": {
+    "url": "https://github.com/teknohole/teknoholeNPM/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teknohole/teknoholeNPM.git"
+  },
+  "license": "MIT",
+  "author": "Teknohole <teknohole@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
