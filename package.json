@@ -1,5 +1,5 @@
 {
-  "name": "teknohole",
+  "name": "@teknohole/teknohole",
   "version": "1.1.2",
   "description": "Package resmi teknohole.com",
   "keywords": [
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/teknohole/teknoholeNPM.git"
   },
   "license": "MIT",
-  "author": "Teknohole <teknohole@gmail.com>",
+  "author": "Teknohole <support@teknohole.com>",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
