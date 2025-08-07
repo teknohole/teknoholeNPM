@@ -1,7 +1,5 @@
-function hello() {
-  console.log("Selamat datang di Teknohole");
-}
+import WebStorage from './webstorage/index.js';
 
-module.exports = {
-  hello
+export {
+  WebStorage
 };
